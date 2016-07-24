@@ -1,6 +1,4 @@
 %What is the largest prime factor of 600851475143
-% FYI I solved this problem literally on the first try without 
-% debugging a single line
 
 number = 600851475143
 prime_factor = 1

@@ -1,8 +1,8 @@
 % find the product a*b*c of the pythagorean triple for which a+b+c = 1000
 
-% using Dickson's method for generating all triples:
-
 %{
+use Dickson's method for generating all triples:
+
 1. choose r, an even number
 2. choose s and t, factor pairs of (r^2) / 2
 3. a=r+s, b=r+t, c=r+s+t
@@ -34,7 +34,6 @@ end
 
 disp(a*b*c)
 
-% TOTAL FIRST TRY 
 
 
 

@@ -1,3 +1,5 @@
+% What is the 10001st prime number?
+
 ID = 1;
 x = 3;
 
@@ -9,7 +11,4 @@ while (ID < 10001)
 end
 
 disp(x-1)
-
-% it is astounding how much time you can save by only checking up
-% to rad(n) 
 

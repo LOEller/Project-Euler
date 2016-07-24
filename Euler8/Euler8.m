@@ -1,7 +1,6 @@
 % find the greatest product of 13 consecutive digits in the 1000 digit
 % number
 
-% code to make an array from nice man online
 number = textread('number.txt','%1u')';
 
 product = 1;

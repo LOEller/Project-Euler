@@ -1,5 +1,7 @@
 % what is the smallest triangle number with 500 divisors?
 
+% flag this soltuion for performance improvements, far too slow
+
 triangle = 1;
 triangleIndex = 1;
 divisors = [];
